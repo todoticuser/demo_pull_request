@@ -4,4 +4,4 @@
 Aquí es la sección de configuración
 
 ## Licencia
-Aún no sé qué poner aqui :(
+Aún no sé qué poner aquí :(
