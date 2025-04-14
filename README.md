@@ -4,4 +4,4 @@
 Aquí es la sección de configuración
 
 ## Licencia
-Aún no sé qué poner aquí :(
+Este proyecto está bajo la licencia MIT. Puedes usarlo libremente, pero no me hagas responsable de nada. Si lo usas, ¡genial! Si no, también está bien. No hay problema.
